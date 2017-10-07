@@ -37,4 +37,5 @@
 - You Don't Know JavaScript（上）
 > 开源书，我的github上已经fork了，选择分支有中文版！还不错
 - 深入浅出React和Redux
+- 图解http
 #未完待续，以后还会慢慢补充，在读的书星数可能会读完会改！！！
