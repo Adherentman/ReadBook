@@ -31,7 +31,7 @@
 - JvasScript 忍者秘籍 ★★★★★★
 > Jq作者所写，强烈推荐
 - ali-oss文档
-- 图解HTTP ★★★★★★
+- 图解HTTP ★★★★★★★
 - 深入React技术栈 ★★★★
 > 不是最新，但是深入原理，感觉挺不错
 - You Don't Know JavaScript（上）
