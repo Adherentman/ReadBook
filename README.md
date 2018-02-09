@@ -50,9 +50,10 @@
 - javascript面向对象编程指南 ★★★
 - 牧羊少年奇幻之旅 ★★★★★
 - 生活是很好玩的 汪曾祺 ★★★★
+- You Don't Know JavaScript（中）
 
 ## 2018
 
 - 魔力Haskell （在读。。）
-
+- You Don't Know JavaScript（下）
 #未完待续，以后还会慢慢补充，在读的书星数可能会读完会改！！！
