@@ -56,5 +56,6 @@
 
 - 魔力Haskell （在读。。）
 - You Don't Know JavaScript（下）
+- CSS揭秘
 
 #未完待续，以后还会慢慢补充，在读的书星数可能会读完会改！！！
