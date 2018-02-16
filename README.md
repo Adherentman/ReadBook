@@ -58,5 +58,6 @@
 - You Don't Know JavaScript（下）
 - CSS揭秘
 - JavaScript设计模式
+- 微信小程序文档
 
 #未完待续，以后还会慢慢补充，在读的书星数可能会读完会改！！！
