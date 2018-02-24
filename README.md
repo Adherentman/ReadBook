@@ -57,7 +57,7 @@
 - 魔力Haskell （在读。。）
 - You Don't Know JavaScript（下）
 - CSS揭秘
-- JavaScript设计模式
+- 解忧杂货店
 - 网络是怎样连通的
 
 #未完待续，以后还会慢慢补充，在读的书星数可能会读完会改！！！
