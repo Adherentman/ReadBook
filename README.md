@@ -50,16 +50,17 @@
 - javascript面向对象编程指南 ★★★
 - 牧羊少年奇幻之旅 ★★★★★
 - 生活是很好玩的 汪曾祺 ★★★★
-- You Don't Know JavaScript（中）
+- You Don't Know JavaScript（中）★★★★★★
 
 ## 2018
 
-- 魔力Haskell （在读。。）
-- You Don't Know JavaScript（下）
-- CSS揭秘
-- 解忧杂货店
-- 网络是怎样连通的
-- 白夜行
-- 嫌疑人X的献身
+- 魔力Haskell （在读。。） 
+- You Don't Know JavaScript（下）★★★★★★
+- CSS揭秘 ★★★★★★
+- 解忧杂货店 ★★★★★
+- 网络是怎样连通的 ★★★★
+- 白夜行 ★★★★★★
+- 嫌疑人X的献身 ★★★★★
+- 前端工程化体系设计与实践 ★★★★
 
 #未完待续，以后还会慢慢补充，在读的书星数可能会读完会改！！！
