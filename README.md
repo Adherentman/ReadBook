@@ -67,6 +67,7 @@
 - 高性能JavaScript ★★★★★
 - CSS权威指南 ★★★★
 - JavaScript框架设计(第二版) ★★★★
+- k8s
 
 
 ## 看过的剧
