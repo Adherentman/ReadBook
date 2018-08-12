@@ -67,6 +67,7 @@
 - 高性能JavaScript ★★★★★
 - CSS权威指南 ★★★★
 - JavaScript框架设计(第二版) ★★★★
+- Node.js调试指南 ★★★★★★
 - k8s
 
 
